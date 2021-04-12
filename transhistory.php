@@ -17,7 +17,7 @@
       border:3px solid blueviolet;
       padding:10px;
       position:absolute;
-      top:90px;
+      top:100px;
       
     }
     tr
@@ -44,7 +44,7 @@ background: linear-gradient(to right, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, F
 <?php
   include 'dataconnect.php';
 ?>
-
+<h2 style="text-align:center; font-style:bold; padding:10px;">Transaction History</h2>
   <table id="myTable" class="table table-hover ">
   <thead>
     <tr>
